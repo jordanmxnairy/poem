@@ -8,7 +8,7 @@ And dawn put on her livery of tints,
 
 And dusk bound gold about her hair and hips:
 
-And, all in silver mail, the *sunlight* came,
+And, all in silver mail, the **sunlight** came,
 
 A knight, who bade the winter let him pass;
 
@@ -24,7 +24,7 @@ Above her head the birds were as a lyre;
 
 And at her feet, like some strong worshipper,
 
-The shouting water pæn'd praise of her
+The shouting __water__ pæn'd praise of her
 
 Who, with blue eyes, set the wild world on fire.
     
