@@ -18,4 +18,4 @@
     *Who, with blue eyes, set the wild world on fire*
     http://www.public-domain-poetry.com/madison-julius-cawein/spring-11768
     
-    *Madison Julius Cadwein*
+    -- *Madison Julius Cadwein*
