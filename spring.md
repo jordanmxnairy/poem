@@ -16,6 +16,8 @@
     And at her feet, like some strong worshipper,
     The shouting water pæn'd praise of her
     *Who, with blue eyes, set the wild world on fire*
-    http://www.public-domain-poetry.com/madison-julius-cawein/spring-11768
     
-    -- *Madison Julius Cadwein*
+     *Madison Julius Cadwein*
+    
+        http://www.public-domain-poetry.com/madison-julius-cawein/spring-11768
+
