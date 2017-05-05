@@ -17,7 +17,7 @@
     The shouting water pæn'd praise of her
     *Who, with blue eyes, set the wild world on fire*
     
-     *Madison Julius Cadwein*
+     -- *Madison Julius Cadwein*
     
         http://www.public-domain-poetry.com/madison-julius-cawein/spring-11768
 
